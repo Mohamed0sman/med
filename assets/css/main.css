@@ -1921,3 +1921,31 @@ p {
 .navbar-logo:hover {
   transform: scale(1.1); /* تكبير الشعار عند التمرير */
 }
+
+/* About Section Styles */
+.about-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #f8f9fa;
+}
+
+.single-about {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.single-about .icon {
+  font-size: 50px;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.single-about .content h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.single-about .content p {
+  font-size: 16px;
+  color: #6c757d;
+}
